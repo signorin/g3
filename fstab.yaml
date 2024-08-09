@@ -1,5 +1,5 @@
 mountpoints:
-  #  /: https://adobe-my.sharepoint.com/my?login_hint=signorin%40adobe%2Ecom&id=%2Fpersonal%2Fsignorin%5Fadobe%5Fcom%2FDocuments%2FEDS%2FG3
+  #  /: https://adobe-my.sharepoint.com/:f:/r/personal/signorin_adobe_com/Documents/EDS/G3?csf=1&web=1&e=F3fVvk
   /:
     url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/sol-sc-boilerplate-xwalk/main"
     type: "markup"
