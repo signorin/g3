@@ -1,6 +1,6 @@
 mountpoints:
-  #  /: https://adobe-my.sharepoint.com/:f:/r/personal/signorin_adobe_com/Documents/EDS/G3
-  /:
-    url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/sol-sc-boilerplate-xwalk/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://adobe-my.sharepoint.com/:f:/r/personal/signorin_adobe_com/Documents/EDS/G3
+  # /:
+    # url: "https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/sol-sc-boilerplate-xwalk/main"
+    # type: "markup"
+    # suffix: ".html"
